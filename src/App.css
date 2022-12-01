@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,50 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+@media screen and (max-width: 844px) {
+  .home__share-box {
+    margin-top: -20%;
+  }
+}
+
+.tabs {
+  position: relative;
+}
+
+.active-tabs {
+  background: rgb(92, 121, 218);
+  border: none;
+}
+.tabss {
+  position: relative;
+  border: none;
+  
+  
+}
+
+.active-tabss {
+  /* background: rgb(92, 121, 218); */
+  border-bottom: 2px solid white;
+  
+}
+
+.content {
+  display: none;
+}
+
+.active-content {
+  display: block;
+}
+
+/* Style the buttons */
+.inav {
+  color: #666 !important;
+}
+
+/* Style the active class (and buttons on mouse-over) */
+.active,
+.inav:hover {
+  color: rgb(92, 121, 218) !important;
 }
