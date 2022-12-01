@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/b2b-ecom/static/css/main.00edab6b.css",
+    "main.js": "/b2b-ecom/static/js/main.81ea3534.js",
+    "static/media/burger.jpg": "/b2b-ecom/static/media/burger.7ee2373045629ea41cc9.jpg",
+    "static/media/Veg.jpg": "/b2b-ecom/static/media/Veg.a266681c79dc75021c0b.jpg",
+    "static/media/accounts.png": "/b2b-ecom/static/media/accounts.3415c0908d0428d8897c.png",
+    "static/media/customer.png": "/b2b-ecom/static/media/customer.0aca49d4eafd6f8eed9f.png",
+    "static/media/products.png": "/b2b-ecom/static/media/products.37c5ae98333fa8370379.png",
+    "static/media/orders.png": "/b2b-ecom/static/media/orders.9bc90904d5c57ef50f5c.png",
+    "index.html": "/b2b-ecom/index.html",
+    "main.00edab6b.css.map": "/b2b-ecom/static/css/main.00edab6b.css.map",
+    "main.81ea3534.js.map": "/b2b-ecom/static/js/main.81ea3534.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00edab6b.css",
+    "static/js/main.81ea3534.js"
+  ]
+}
